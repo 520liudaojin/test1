@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0)
+project(ZHU)
+add_compile_options(-std=c++11)
+include_directories(${CMAKE_SOURCE_DIR})
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -g -Wall")
+add_executable(my_git_cmake c++1.cpp)

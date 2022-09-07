@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -rdynamic CMakeFiles/my_git_cmake.dir/c++1.cpp.o -o my_git_cmake 
