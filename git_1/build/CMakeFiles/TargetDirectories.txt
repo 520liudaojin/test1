@@ -1,3 +1,0 @@
-/mnt/hgfs/VMShareFile/test1/build/CMakeFiles/my_git_cmake.dir
-/mnt/hgfs/VMShareFile/test1/build/CMakeFiles/edit_cache.dir
-/mnt/hgfs/VMShareFile/test1/build/CMakeFiles/rebuild_cache.dir
